@@ -2,3 +2,19 @@ li {
   display: inline-block;
   margin: 0, auto;
 }
+
+img {
+  height: 300px;
+  float: right;
+}
+div {
+  float: right;
+}
+body {
+  font-family: monospace;
+  margin: auto 27%;
+}
+.div1 {
+  float: left;
+  width: 50%;
+}
